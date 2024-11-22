@@ -1,0 +1,53 @@
+﻿@model CMCS.Models.LectureClaim
+
+@{
+    ViewData["Title"] = "Claim Details";
+  
+}
+
+<div class="container my-5">
+    <h1 class="text-center text-info mb-4">Lecture Claim Details</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow">
+                <div class="card-body">
+                    <div class="row mb-4">
+                        <div class="col-md-6 text-center">
+                            <h5 class="text-primary">Name:</h5>
+                            <p class="fs-5 fw-bold">@Model.LecturerName @Model.LecturerSurname</p>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <img src="@Url.Content("~/wwwroot/SupportingDocument/Document/" + Model.ClaimDocument)"
+                                 style="width: 100px; height: 100px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);"
+                                 alt="Lecture Claim Document" />
+                            <h5 class="text-primary mt-2">Claim ID:</h5>
+                            <p class="fs-5 fw-bold">@Model.ClaimID</p>
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <dl class="row">
+                            <dt class="col-sm-4 fw-bold">@Html.DisplayNameFor(model => model.LecturerEmail)</dt>
+                            <dd class="col-sm-8">@Html.DisplayFor(model => model.LecturerEmail)</dd>
+
+                            <dt class="col-sm-4 fw-bold">@Html.DisplayNameFor(model => model.ClaimDate)</dt>
+                            <dd class="col-sm-8">@Html.DisplayFor(model => model.ClaimDate)</dd>
+
+                            <dt class="col-sm-4 fw-bold">@Html.DisplayNameFor(model => model.HoursWorked)</dt>
+                            <dd class="col-sm-8">@Html.DisplayFor(model => model.HoursWorked)</dd>
+
+                            <dt class="col-sm-4 fw-bold">@Html.DisplayNameFor(model => model.HourlyRate)</dt>
+                            <dd class="col-sm-8">@Html.DisplayFor(model => model.HourlyRate)</dd>
+
+                            <dt class="col-sm-4 fw-bold">@Html.DisplayNameFor(model => model.Status)</dt>
+                            <dd class="col-sm-8">@Html.DisplayFor(model => model.Status)</dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="card-footer text-center">
+                    <a class="btn btn-primary" asp-action="ClaimsList" asp-controller="LectureClaims">Back to List</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

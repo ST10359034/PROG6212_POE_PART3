@@ -1,0 +1,19 @@
+﻿@model CMCS.Models.InvoiceViewModel
+
+@{
+    ViewData["Title"] = "Invoice Details";
+}
+
+<h1>Invoice Details</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Claim ID: @Model.ClaimID</h5>
+        <p class="card-text"><strong>Lecturer Name:</strong> @Model.LecturerName</p>
+        <p class="card-text"><strong>Claim Date:</strong> @Model.ClaimDate.ToShortDateString()</p>
+        <p class="card-text"><strong>Hours Worked:</strong> @Model.HoursWorked</p>
+        <p class="card-text"><strong>Hourly Rate:</strong> @Model.HourlyRate.ToString("C")</p>
+        <p class="card-text"><strong>Total Payment:</strong> @Model.TotalPayment.ToString("C")</p>
+        <p class="card-text"><strong>Status:</strong> @Model.Status</p>
+    </div>
+</div>

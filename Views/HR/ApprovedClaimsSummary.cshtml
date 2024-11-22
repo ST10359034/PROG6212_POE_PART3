@@ -1,0 +1,50 @@
+﻿@model IEnumerable<CMCS.Models.LectureClaim>
+
+@{
+    ViewData["Title"] = "Approved Claims Summary";
+}
+
+<h1>Approved Claims Summary</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Lecturer Name</th>
+            <th>Email</th>
+            <th>Claim Date</th>
+            <th>Hours Worked</th>
+            <th>Hourly Rate</th>
+            <th>Total Payment</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimID</td>
+                <td>@claim.LecturerName @claim.LecturerSurname</td>
+                <td>@claim.LecturerEmail</td>
+                <td>@claim.ClaimDate.ToShortDateString()</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate.ToString("C")</td>
+               <td>@((claim.HoursWorked * claim.HourlyRate).ToString("C"))</td>
+                <td>@claim.Status</td>
+                <td>
+                    <a href="@Url.Action("ViewInvoice", "HR", new { claimId = claim.ClaimID })" class="btn btn-primary">View Invoice</a>
+                    <a href="@Url.Action("EditLecturerInfo", "HR", new { claimId = claim.ClaimID })" class="btn btn-warning">Edit Lecturer Info</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

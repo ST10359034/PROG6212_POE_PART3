@@ -1,0 +1,62 @@
+﻿<!-- Include jQuery validation plugin -->
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<!-- Include unobtrusive validation plugin for easy integration with ASP.NET -->
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        // Initialize form validation when the document is fully loaded
+        $("form").validate({
+            // Define validation rules for each input field
+            rules: {
+                LecturerName: {
+                    required: true, // Lecturer Name is mandatory
+                    maxlength: 100 // Maximum length allowed is 100 characters
+                },
+                Email: {
+                    required: true, // Email is mandatory
+                    email: true // Must follow valid email format
+                },
+                ClaimDate: {
+                    required: true, // Claim Date is mandatory
+                    date: true // Must be in a valid date format
+                },
+                HoursWorked: {
+                    required: true, // Hours Worked is mandatory
+                    min: 1, // Minimum allowed value is 1
+                    max: 500 // Maximum allowed value is 500
+                },
+                HourlyRate: {
+                    required: true, // Hourly Rate is mandatory
+                    min: 1, // Minimum allowed value is 1
+                    max: 1000 // Maximum allowed value is 1000
+                }
+            },
+            // Custom error messages for each field
+            messages: {
+                LecturerName: {
+                    required: "Lecturer Name is required", // Error message if empty
+                    maxlength: "Lecturer Name cannot be longer than 100 characters" // Error message if too long
+                },
+                Email: {
+                    required: "Email is required", // Error message if empty
+                    email: "Invalid Email Address" // Error message for invalid format
+                },
+                ClaimDate: {
+                    required: "Claim Date is required", // Error message if empty
+                    date: "Invalid date format" // Error message for invalid format
+                },
+                HoursWorked: {
+                    required: "Hours Worked is required", // Error message if empty
+                    min: "Hours Worked must be between 1 and 500", // Error message for values less than 1
+                    max: "Hours Worked must be between 1 and 500" // Error message for values greater than 500
+                },
+                HourlyRate: {
+                    required: "Hourly Rate is required", // Error message if empty
+                    min: "Hourly Rate must be between 1 and 1000", // Error message for values less than 1
+                    max: "Hourly Rate must be between 1 and 1000" // Error message for values greater than 1000
+                }
+            }
+        });
+    });
+</script>

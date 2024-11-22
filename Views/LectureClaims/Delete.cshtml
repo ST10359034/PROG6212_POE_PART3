@@ -1,0 +1,29 @@
+﻿@model CMCS.Models.LectureClaim
+
+@{
+    ViewData["Title"] = "Claim Details";
+}
+
+<div class="container">
+    <h2>Claim Details</h2>
+
+    <div>
+        <h4>Lecturer Name: @Model.LecturerName</h4>
+        <h4>Lecturer Surname: @Model.LecturerSurname</h4>
+        <h4>Email: @Model.LecturerEmail</h4>
+        <h4>Claim Date: @Model.ClaimDate.ToShortDateString()</h4>
+        <h4>Hours Worked: @Model.HoursWorked</h4>
+        <h4>Hourly Rate: @Model.HourlyRate.ToString("C")</h4>
+        <h4>Status: @Model.Status</h4>
+
+        @if (Model.ClaimDocument != null)
+        {
+            // Assuming you saved the uploaded file in wwwroot/SupportingDocument/Document/
+            var documentPath = "~/SupportingDocument/Document/" + Model.ClaimDocument.FileName;
+
+            <img src="@documentPath" alt="Claim Document" height="150" />
+        }
+    </div>
+
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+</div>

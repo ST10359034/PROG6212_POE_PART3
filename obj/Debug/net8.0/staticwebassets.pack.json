@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMCS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CMCS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\0146f6a2-b1fa-4dab-9f1d-d03d1341a38b.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\0146f6a2-b1fa-4dab-9f1d-d03d1341a38b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\08917ddc-65bc-40a4-9978-c65ecf53a06e.PublishSettings",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\08917ddc-65bc-40a4-9978-c65ecf53a06e.PublishSettings"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\0bdcd41a-a190-44d8-9642-5ba558baa90c.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\0bdcd41a-a190-44d8-9642-5ba558baa90c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\15130e59-2860-4014-9146-c735f0304d4c.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\15130e59-2860-4014-9146-c735f0304d4c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\1ac3ae0e-d5e0-4cf2-a44a-19683c632c31.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\1ac3ae0e-d5e0-4cf2-a44a-19683c632c31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\1c86e458-53d3-4ef2-acaa-b2c59b3a14c8.pdf",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\1c86e458-53d3-4ef2-acaa-b2c59b3a14c8.pdf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\3279c019-64ea-44d1-b33b-cf06e2d8acb8.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\3279c019-64ea-44d1-b33b-cf06e2d8acb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\33ea03b8-9763-4258-89ac-294f77571a48.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\33ea03b8-9763-4258-89ac-294f77571a48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\3b9a718a-c778-46b9-a6f6-b18e892ae4f1.docx",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\3b9a718a-c778-46b9-a6f6-b18e892ae4f1.docx"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\4c1a457d-4ccb-4d03-8872-917746fcfff0.pdf",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\4c1a457d-4ccb-4d03-8872-917746fcfff0.pdf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\661e6e26-3a74-4b8b-a40f-a4fde2374a5d.docx",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\661e6e26-3a74-4b8b-a40f-a4fde2374a5d.docx"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\7567007b-2b5d-4a7f-ae5e-aa3a70064d6d.pdf",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\7567007b-2b5d-4a7f-ae5e-aa3a70064d6d.pdf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\891d2dec-33ee-4687-9cf6-b80340429a2b.pdf",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\891d2dec-33ee-4687-9cf6-b80340429a2b.pdf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\97eeffa8-95c5-478f-ad84-962677fb3c13.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\97eeffa8-95c5-478f-ad84-962677fb3c13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\9dbadb1c-034a-45dc-a858-47fe1a3d7dc1.docx",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\9dbadb1c-034a-45dc-a858-47fe1a3d7dc1.docx"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\a9172fb9-dc37-4f1a-bd78-cf56659cbab2.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\a9172fb9-dc37-4f1a-bd78-cf56659cbab2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\b00ba6fb-8bd1-4deb-8be9-46a3233a9016.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\b00ba6fb-8bd1-4deb-8be9-46a3233a9016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\SupportingDocument\\Document\\f07f9332-73aa-4fd8-b835-512d5b4e41d6.jpg",
+      "PackagePath": "staticwebassets\\SupportingDocument\\Document\\f07f9332-73aa-4fd8-b835-512d5b4e41d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\CMCS\\CMCS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CMCS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CMCS.props",
+      "PackagePath": "build\\CMCS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CMCS.props",
+      "PackagePath": "buildMultiTargeting\\CMCS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CMCS.props",
+      "PackagePath": "buildTransitive\\CMCS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<CMCS.Models.LectureClaim>
+
+@{
+    ViewData["Title"] = "Lecture Claims";
+}
+
+<div class="container my-5">
+    <h1 class="text-center text-primary mb-4">Lecture Claims</h1>
+    <div class="text-end mb-3">
+        <a class="btn btn-primary" asp-action="Create">Create New Claim</a>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover">
+            <thead class="table-dark">
+                <tr class="text-center">
+                    <th>Lecturer Name</th>
+                    <th>Lecturer Surname</th>
+                    <th>Lecturer Email</th>
+                    <th>Claim Date</th>
+                    <th>Hours Worked</th>
+                    <th>Hourly Rate</th>
+                    <th>Claim Document</th> <!-- Column for the uploaded file -->
+                    <th>Status</th> <!-- Column for status -->
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody class="text-center">
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var claim in Model)
+                    {
+                        var documentPath = Url.Content("~/wwwroot/SupportingDocument/Document/" + claim.ClaimDocument); // Update the path as needed
+                        <tr>
+                            <td>@claim.LecturerName</td>
+                            <td>@claim.LecturerSurname</td>
+                            <td>@claim.LecturerEmail</td>
+                            <td>@claim.ClaimDate.ToShortDateString()</td> <!-- Format date as needed -->
+                            <td>@claim.HoursWorked</td>
+                            <td>@claim.HourlyRate.ToString("C")</td> <!-- Format currency as needed -->
+                            <td>
+                                <img src="@documentPath" height="100" width="100" alt="Claim Document" style="border-radius: 8px; border: 1px solid #ddd;" /> <!-- Display the image -->
+                            </td>
+                            <td>
+                                <span class="badge bg-info text-dark">@claim.Status</span> <!-- Display the status -->
+                            </td>
+                            <td>
+                                <a asp-action="Details1" asp-route-id="@claim.ClaimID" class="btn btn-info btn-sm">Details</a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="9" class="text-center">No claims found.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
